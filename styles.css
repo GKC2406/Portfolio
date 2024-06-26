@@ -1,0 +1,130 @@
+ body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: large;
+} 
+nav a{
+	text-decoration: none;
+	color: rgb(91, 43, 65);
+	font-family: 'Mogra', Times, serif;
+	font-size: 25px;
+}
+nav{
+	margin-left: 770px;
+	padding: 25px;
+}
+.hero{
+	margin-top: 80px;
+	margin-left: 200px;
+}
+.hero img.girl{
+	margin-left: 550px;
+	margin-top: -700px;
+	/* margin-bottom: 1700px; */
+}
+.first{
+	background-color: rgba(245, 189, 198, 0.923);
+	height: 600px;
+}
+#ABOUT{
+	background-color: rgba(205, 242, 249, 0.899);
+	margin-top: 24px;
+	height: 600px;
+}
+#EDUCATION{
+	background-color: rgba(211, 253, 211, 0.59);
+	margin-top: 15px;
+	height:600px;
+}
+#SKILLS{
+	background-color:rgba(253, 207, 253, 0.887);
+	/* margin-top: -24px; */
+	height:700px;
+}
+#CONTACT{
+	background-color: rgba(255, 189, 200, 0.923);
+	height: 600px;
+	margin-top:-70px ;
+}
+h1{
+	color:rgb(70, 66, 66);
+	font-family: 'Courgette', Times, serif;
+	font-size: 70px;
+	margin-top: 40px;
+}
+h3{
+	color:rgb(54, 50, 50);
+	font-family: 'Courgette', Times, serif;
+	font-size: 40px;
+	margin-left:-20px;
+}
+h4{
+	color:rgb(54, 50, 50);
+	/* font-family: 'Courgette', Times, serif; */
+	font-size: 25px;
+	margin-left:-20px;
+
+}
+h5{
+	color:rgb(54, 50, 50);
+	font-family: 'Courgette', Times, serif;
+	font-size: 40px;
+	padding: 80px;
+}
+p1{
+	color:rgb(54, 50, 50);
+	font-family: 'roman', Times, serif;
+	font-size: 30px;
+	padding: 40px;
+}
+h2{
+	color:rgb(54, 50, 50);
+	font-family: 'Courgette', Times, serif;
+	font-size: 40px;
+	padding: 30px;
+	margin-left: 530px;
+	margin-top:-24px;
+}
+p{
+	color:rgb(54, 50, 50);
+	font-family: 'Courgette', Times, serif;
+	font-size: 30px;
+	padding: 30px;
+	margin-left: 20px;
+	margin-top: -24px;
+	text-align: center;
+}
+#EDUCATION img.kv{
+	margin-left: 270px;
+	margin-top: 20px;
+}
+#EDUCATION img.glb{
+	margin-left: 790px;
+	margin-top: -870px;
+	/* margin-bottom:3500px ; */
+}
+.hero.girl{
+	margin-left: 1000px;
+
+}
+#SKILLS div{
+	margin-left: 50px;
+} 
+#ABOUT button{
+	margin-left: 590px;
+	font-size: 20px;
+	color: aliceblue;
+	padding: 7px 10px 7px 10px;
+	background-color: rgb(136, 136, 235);
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px black;
+	cursor: pointer;
+	border:none;
+
+}
+#ABOUT button:hover{
+	background-color: aliceblue;
+	color: rgb(136, 136, 235);
+}
+
